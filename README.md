@@ -7,8 +7,8 @@ Computer Science Student
 Love to code and exploring the different languages. Python is my favorite tho!
 
 * 🌍  I'm based in Køge, Denmark
-* 🖥️  See my portfolio at [Website](http://mysiteisnotreadyyet.dk)
-* ✉️  You can contact me at [mik.thomsen@live.dk](mailto:mik.thomsen@live.dk)
+* 🖥️  See my portfolio at [Website](http://codingphoque.dk)
+* ✉️  You can contact me at [support@codingphoque.dk](mailto:support@codingphoque.dk)
 * 🚀  I'm currently working on [School projects](http://s)
 * 🧠  I'm learning C# and Python currently
 * ⚡  Melvor Idle is my jam
